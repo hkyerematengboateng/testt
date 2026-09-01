@@ -1,0 +1,6 @@
+- Create Github account (if you already don't have one)
+- Each one is the develop a Software application (web or standalone)
+- Write a one page description with title of what the software does, users and technology that you will be using. There should be at least, a UI interface, database connection.
+NEXT WEEK: 
+- Submit one-page write up before Sunday 11:59pm
+- Github and add professor as a member of your project
